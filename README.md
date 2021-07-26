@@ -4,9 +4,9 @@
 
 ### Languages and Tools:
 
-![Flutter]https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass&logoColor=BF4080)
-![Dart](https://img.shields.io/badge/-HTML%205-090909?style=for-the-badge&logo=html5&logoColor=E64D26)
-![Firebase](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=0745B4)
+![SASS](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass&logoColor=BF4080)
+![HTML 5](https://img.shields.io/badge/-HTML%205-090909?style=for-the-badge&logo=html5&logoColor=E64D26)
+![CSS 3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=0745B4)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
