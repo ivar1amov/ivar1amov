@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 
-![Flutter](https://img.shields.io/badge/-HTML5-090909)
+![Flutter](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
