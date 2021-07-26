@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
+[![Header](https://github.com/ivar1amov/ivar1amov/blob/main/assets/header.png)](https://www.vk.com/ivarlamov)
 
 ## I'm a beginner Youtuber and Software Engineer
 
