@@ -4,12 +4,12 @@
 
 ### Languages and Tools:
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jquery&logoColor=78CFF5)
 ![SASS](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass&logoColor=BF4080)
 ![HTML 5](https://img.shields.io/badge/-HTML%205-090909?style=for-the-badge&logo=html5&logoColor=E64D26)
-![CSS 3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=0745B4)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![CSS 3](https://img.shields.io/badge/-css%203-090909?style=for-the-badge&logo=css3&logoColor=0745B4)
+![GULP 4](https://img.shields.io/badge/-gulp%204-090909?style=for-the-badge&logo=gulp&logoColor=CF4647)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
