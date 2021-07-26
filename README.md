@@ -13,7 +13,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E64D26)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=0745B4)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma&logoColor=FF7262)
-![ADOBE XD](https://img.shields.io/badge/-ADOBEXD-090909?style=for-the-badge&logo=adobe%20xd&logoColor=470137)
+![ADOBE XD](https://img.shields.io/badge/-ADOBE&20XD-090909?style=for-the-badge&logo=adobe%20xd&logoColor=470137)
 
 
 ### How to reach Me:
