@@ -26,4 +26,4 @@
 ### My latest project:
 
 [![CЕВЕРНЫЙ ВЕТЕР](https://github.com/ivar1amov/ivar1amov/blob/main/assets/logo.svg)](https://dev.rtc.tc/)
-[![CЕВЕРНЫЙ ВЕТЕР исходники](https://github.com/ivar1amov/ivar1amov/blob/main/assets/logo.svg)](https://github.com/ivar1amov/north)
+[![CЕВЕРНЫЙ ВЕТЕР исходники](исходники проекта)](https://github.com/ivar1amov/north)
