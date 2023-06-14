@@ -1,4 +1,4 @@
-[![Header](https://github.com/ivar1amov/ivar1amov/blob/main/assets/hello.gif)](https://www.vk.com/ivar1amov)
+[![Header](https://github.com/ivar1amov/ivar1amov/blob/main/assets/hello.gif)](https://www.vk.com/novarlamov)
 
 ## I'm a beginner Front-end Developer
 
